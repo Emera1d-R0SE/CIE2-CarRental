@@ -69,7 +69,7 @@ CIE2-carental/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/CIE2-carental.git
+git clone https://github.com/Emera1d-R0SE/CIE2-CarRental.git
 cd CIE2-carental
 ```
 
